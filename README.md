@@ -1,5 +1,6 @@
 # Automated web application reconnaissance and scanner tool
 
+This is a script that automates brute forcing subdomains and directories, and uses the output to scan for vulnerabilities like XSS, SQLi, CSRF and redirecting vulnerabilities
 
 # Usage
 ```
