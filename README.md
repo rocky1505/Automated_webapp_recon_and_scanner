@@ -1,7 +1,7 @@
 # Automated web application reconnaissance and scanner tool
 
 
-#Usage
+# Usage
 ```
 sudo python3 webpenaut.py -r recon -u <url>
 ```
